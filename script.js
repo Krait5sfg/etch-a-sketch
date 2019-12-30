@@ -2,7 +2,8 @@
 const container = document.querySelector('.container');
 const body = document.querySelector('body');
 let inputFromUser;
-//create square 16x16 div and add they in html
+
+//create square 16x16 div and add in html
 createSquare(16);
 
 
