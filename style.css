@@ -1,0 +1,10 @@
+.container {
+    /* margin: 0;
+    padding: 0; */
+    font-size: 0; /*remove spacing between line*/
+    border: 1px solid lightgray;
+    width: fit-content;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
